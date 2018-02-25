@@ -1,6 +1,20 @@
 
 ---
 
+## github.com/Alan-Miller/[animations](https://github.com/Alan-Miller/animations)
+
+CSS sandbox.
+
+Tech: HTML, CSS
+
+## github.com/Alan-Miller/[animations-react](https://github.com/Alan-Miller/animations-react)
+
+CSS sandbox.
+
+Tech: React, CSS
+
+---
+
 ## github.com/Alan-Miller/[bulbasaur](https://github.com/Alan-Miller/bulbasaur)
 
 App lets user route to different components and hits outside APIs.
@@ -8,12 +22,28 @@ App lets user route to different components and hits outside APIs.
 Tech: React, React routing, axios, outside APIs
 
 ---
+
+## github.com/Alan-Miller/[css-shapes](https://github.com/Alan-Miller/css-shapes)
+
+Sandbox for making CSS shapes.
+
+Tech: CSS
+
+---
   
-## github.com/Alan-Miller/[cart](https://github.com/Alan-Miller/cart)
+## github.com/Alan-Miller/[git](https://github.com/Alan-Miller/git)
 
-Small Redux shop app lets user browse, view details, and place items in cart or delete them. 
+Small Node back end.
 
-Tech: React, Redux, axios
+Tech: Node
+
+---
+  
+## github.com/Alan-Miller/[hoisting](https://github.com/Alan-Miller/hoisting)
+
+Small Node back end.
+
+Tech: Node
 
 ---
   
@@ -22,6 +52,30 @@ Tech: React, Redux, axios
 Small Redux app that hits outside APIs. Built with RKM.
 
 Tech: React, React routing, Redux, axios
+
+---
+  
+## github.com/Alan-Miller/[jest](https://github.com/Alan-Miller/jest)
+
+Front-to-back app built for Jest testing.
+
+Tech: React, Jest, Express, axios
+
+---
+  
+## github.com/Alan-Miller/[jest-react-sandbox](https://github.com/Alan-Miller/jest-react-sandbox)
+
+Front-to-back app built for Jest testing.
+
+Tech: React, Jest, Express, axios
+
+---
+  
+## github.com/Alan-Miller/[node](https://github.com/Alan-Miller/node)
+
+Node sandbox.
+
+Tech: Node
 
 ---
 
